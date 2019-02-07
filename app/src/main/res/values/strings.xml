@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">CustomDialogApp</string>
+    <string name="login">Login</string>
+    <string name="password">Password</string>
+    <string name="email_or_username">Email or UserName</string>
+    <string name="username">UserName</string>
+    <string name="cancel">Cancel</string>
+</resources>
